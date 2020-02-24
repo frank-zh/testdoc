@@ -11,6 +11,9 @@ Welcome to frank's documentation!
    :caption: Contents:
 
 
+Installation
+=================================
+
 
 Indices and tables
 ==================
